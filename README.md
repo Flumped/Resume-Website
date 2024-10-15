@@ -1,3 +1,3 @@
 # resumeWebsite
-Website using bootstrap hosted via AWS Amplify
-You can view the website at this link: https://main.d3qc3bl8k95vj.amplifyapp.com/
+A brief static webpage, designed using a bootstrap template, hosted via GitHub Pages.
+You can view the website at: https://flumped.github.io/Resume-Website/
